@@ -12,4 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+.aab
+.apk
 local.properties
