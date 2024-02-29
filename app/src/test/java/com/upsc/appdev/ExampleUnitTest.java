@@ -1,4 +1,4 @@
-package com.upsc.exam;
+package com.upsc.appdev;
 
 import org.junit.Test;
 
